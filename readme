@@ -1,0 +1,9 @@
+1. apt-get install build-essential
+2. apt-get install gobjc
+3. apt-get install gobjc++
+4. apt-get install gnustep
+5. apt-get install gnustep-devel
+
+
+reference:
+blog.51cto.com/happyliu/1621679
